@@ -23,7 +23,7 @@ img {
   height: 150px;
 }
 
-p {
+p.about_link {
   float: right;
   text-align: right;
   font-size: 98%;
