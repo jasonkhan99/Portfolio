@@ -28,3 +28,11 @@ p {
   text-align: right;
   font-size: 98%;
 }
+
+.contact {
+  color: red;
+}
+
+.about_me {
+  color: blue;
+}
