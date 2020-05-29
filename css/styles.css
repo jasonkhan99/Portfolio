@@ -20,5 +20,9 @@ img {
 }
 
 .panel-body {
-  height: 100px;
+  height: 150px;
+}
+
+p {
+  float: right;
 }
