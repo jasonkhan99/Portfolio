@@ -22,6 +22,7 @@ img {
 
 .panel-body {
   height: 125px;
+  background-color: rgb(240, 240, 240);
 }
 
 p.about_link {
@@ -36,4 +37,8 @@ p.about_link {
 
 .about_me {
   color: blue;
+}
+
+.panel-title {
+  color: rgb(58, 70, 67);
 }
