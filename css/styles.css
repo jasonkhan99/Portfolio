@@ -22,3 +22,9 @@ img {
 .panel-body {
   height: 150px;
 }
+
+p {
+  float: right;
+  text-align: right;
+  font-size: 98%;
+}
