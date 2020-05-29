@@ -13,7 +13,7 @@ _This is a website created for my Portfolio and to satisfy the requirements of t
 * Clone this [repository](https://github.com/jasonkhan99/Portfolio.git)
 * Locate index.html file in main directory.
 * Open index.html file in browser of choice (Chrome or Firefox prefered)
-* [Click here](example) if you simply want to see it in action.
+* [Click here](https://jasonkhan99.github.io/Portfolio) if you simply want to see it in action.
 * Enjoy!
 
 ## Known Bugs
